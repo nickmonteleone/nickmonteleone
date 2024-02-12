@@ -13,13 +13,13 @@
 <br>
 
 My personal site:
-- 😎 <a> nmonteleone.com </a>
+- 😎 [nmonteleone.com](https://nmonteleone.com)
 
 <br>
 
 Check out some of my personal projects:
-- 🏡 <a> sharebandb.nmonteleone.com </a>
-- 🗣️ <a> jobly.nmonteleone.com </a>
+- 🏡 [sharebandb](https://sharebandb.nmonteleone.com)
+- 🗣️ [jobly](https://jobly.nmonteleone.com)
 
 <br>
 
