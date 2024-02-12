@@ -18,8 +18,8 @@ My personal site:
 <br>
 
 Check out some of my personal projects:
-- 🏡 [sharebandb](https://sharebandb.nmonteleone.com)
-- 🗣️ [jobly](https://jobly.nmonteleone.com)
+- 🏡 [sharebandb.nmonteleone.com](https://sharebandb.nmonteleone.com)
+- 🗣️ [jobly.nmonteleone.com](https://jobly.nmonteleone.com)
 
 <br>
 
