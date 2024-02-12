@@ -26,4 +26,4 @@ Check out some of my personal projects:
 About me:
 - 🔭 I’m currently working on JS and Python projects
 - 📫 How to reach me: nicholasmonteleone25@gmail.com
-- 😄 Pronouns: he/him/his
+- 🙂 Pronouns: he/him/his
